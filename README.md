@@ -15,6 +15,7 @@ import random
 Each turn should show your roll number, the dice values, and the newly calculated total
 
 **It could look like this:**
+
 ![image](dice.jpg)
 
 **Marks**
